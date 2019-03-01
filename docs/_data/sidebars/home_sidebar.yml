@@ -43,6 +43,9 @@ entries:
       title: Crestle.ai (Easy)
       url: /start_crestle.html
     - output: web
+      title: Salamander (Easy)
+      url: /start_salamander.html
+    - output: web
       title: Gradient (Easy)
       url: /start_gradient.html
     - output: web
@@ -105,6 +108,9 @@ entries:
     - output: web
       title: Render
       url: /deployment_render.html
+    - output: web
+      title: Amazon SageMaker
+      url: /deployment_amzn_sagemaker.html      
     - output: web
       title: AWS BeanStalk
       url: /deployment_aws_beanstalk.html
